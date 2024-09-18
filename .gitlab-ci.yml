@@ -1,0 +1,2 @@
+build job:
+        script: echo "hello this is cicd"
